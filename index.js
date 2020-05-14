@@ -1,3 +1,5 @@
+
+// első komment development
 // pelda ketto komment
 const calculator = require('.calculator');
 
